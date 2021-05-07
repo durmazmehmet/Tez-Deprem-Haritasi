@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tez_Gmap">
+</Property><Property Name="Solution File" Value="d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap.sln">
+</Property><Property Name="Date" Value="08 Aralık 2008 Pazartesi">
+</Property><Property Name="Time" Value="22:33:40">
+</Property></Properties><Event ErrorLevel="0" Project="WCPierce.Web" Source="C:\Documents and Settings\user.XP-COMPUTER\Desktop\WCPierce\WCPierce\WCPierce.Web\WCPierce.Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WCPierce.Web" Source="C:\Documents and Settings\user.XP-COMPUTER\Desktop\WCPierce\WCPierce\WCPierce.Web\WCPierce.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WCPierce.Web" Source="C:\Documents and Settings\user.XP-COMPUTER\Desktop\WCPierce\WCPierce\WCPierce.Web\WCPierce.Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\bin\Tez_Gmap.dll
+d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\bin\Tez_Gmap.pdb
+d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\bin\ZedGraph.resources.dll
+d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\obj\Debug\ResolveAssemblyReference.cache
+d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\obj\Debug\Tez_Gmap.dll
+d:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\obj\Debug\Tez_Gmap.pdb
+E:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\bin\Tez_Gmap.dll
+E:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\bin\Tez_Gmap.pdb
+E:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\bin\ZedGraph.resources.dll
+E:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\obj\Debug\ResolveAssemblyReference.cache
+E:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\obj\Debug\Tez_Gmap.dll
+E:\Mehmet\Visual Studio 2008\Projects\Tez_Gmap\Tez_Gmap\obj\Debug\Tez_Gmap.pdb
